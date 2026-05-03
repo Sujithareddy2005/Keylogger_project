@@ -33,17 +33,16 @@ The goal is to demonstrate how logging mechanisms work in a **controlled and eth
 ▶️ How to Run the Project
 
 1. Install required libraries:
-```
+   
 pip install flask
-```
+
 2. Run the application:
-```
+
 python app.py
-```
+
 3. Open browser and go to:
-```
+
 http://127.0.0.1:5000/
-```
 
 📸 Output
 
